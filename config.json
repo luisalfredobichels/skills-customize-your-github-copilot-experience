@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Construindo APIs REST com FastAPI",
+      "description": "Aprenda a criar APIs REST com FastAPI, incluindo CRUD e validação de dados.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2025-11-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
